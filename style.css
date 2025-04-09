@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(178, 206, 230);
+}
+
+#titleCorvo{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+.card{
+    margin-left: 30px;
+}
+
+.Curios{
+    padding: 50px;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
